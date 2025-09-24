@@ -1,6 +1,6 @@
 # Cameron Fox
 
-Hi! I'm Cameron, I'm a games developer and 2nd year computer science student at the Univeristy of Cambridge. I am also currently completing an internship with Studio Gobo. My games, many game-jam entries and my Steam release, Anchor Up, are released under "Orange Flag Studio". I am also the co-founder and co-president of the Cambridge University Game Development Society (CU-Devs), alongside Samuel Shakeshaft. I intend to update this page with games and programming projects that I do in between my studies.
+Hi! I'm Cameron, I'm a games developer and 3rd year computer science student at the Univeristy of Cambridge. I also completed an Engineering Internship at Studio Gobo in the summer 2025. My games, many game-jam entries and my Steam release, Anchor Up, are released under "Orange Flag Studio". I am also the co-founder and co-president of the Cambridge University Game Development Society (CU-Devs), alongside Samuel Shakeshaft. I intend to update this page with games and programming projects that I do in between my studies.
 
 ## Experience
 - November 2023 - present: Cambridge University Game Development Society Co-President
@@ -49,7 +49,11 @@ Planning to add: cover transitions and vaulting (and possible extension of the s
 
 DNGN will be continuing production into 2026 with a small core team in the run-up to a release in late 2026.
 
-(Updated 01/07/2025)
+### Machine Learned Cloth Simulation [Dissertation]
+
+I will be undertaking my final year dissertation on machine learned cloth simulation for a realtime implementation. It is inspired by the Ubisoft LaForge paper on the same subject.
+
+(Updated 24/09/2025)
 
 ## Contact
 
