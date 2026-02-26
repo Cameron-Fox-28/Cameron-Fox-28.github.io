@@ -1,10 +1,13 @@
 # Cameron Fox
 
-Hi! I'm Cameron, I'm a games developer and 3rd year computer science student at the Univeristy of Cambridge. I also completed an Engineering Internship at Studio Gobo in the summer 2025. My games, many game-jam entries and my Steam release, Anchor Up, are released under "Orange Flag Studio". I am also the co-founder and co-president of the Cambridge University Game Development Society (CU-Devs), alongside Samuel Shakeshaft. I intend to update this page with games and programming projects that I do in between my studies.
+Hi! I'm Cameron, I'm a games developer and 3rd year computer science student at the Univeristy of Cambridge. I completed an Engineering Internship at Studio Gobo in the summer 2025 and will be starting as a Graduate Programmer at Fronier Developments in August 2026. My games, many game-jam entries and my Steam release, Anchor Up, are released under "Orange Flag Studio". I am also the co-founder and co-president of the Cambridge University Game Development Society (CU-Devs), alongside Samuel Shakeshaft. I intend to update this page with games and programming projects that I do in between my studies.
 
 ## Experience
-- November 2023 - present: Cambridge University Game Development Society Co-President
-- June 2025 - September 2025: Intern Engineer at Studio Gobo
+### Professional
+- {Starting August 2026} : Graduate Programmer at [Frontier Developments](https://www.frontier.co.uk/) | @ Cambridge
+- June - September 2025: Intern Engineer at [Studio Gobo](https://www.studiogobo.com/) | @ Brighton
+### Teaching and University
+- November 2023 - present: [Cambridge University Game Development Society](https://www.instagram.com/cudevs/?hl=en) Co-President and Co-Founder
 - August 2024: [Linacre Institute Mathematics Teacher](https://linacreinstitute.org/)
 - August 2024: [Sutton Trust](https://summerschools.suttontrust.com/university-partners/university-of-cambridge/) Computer Science Ambassador
 - July 2024 - January 2025: [Apply Cambridge](https://www.undergraduate.study.cam.ac.uk/find-out-more/widening-participation/apply-cambridge) Computer Science Mentor
@@ -12,8 +15,7 @@ Hi! I'm Cameron, I'm a games developer and 3rd year computer science student at 
 ## Links 
 
 ### Personal
-- [Itch.io page](https://orange-flag.itch.io/)   - 19 online game jam entries
-- [Github](https://github.com/badwolf2828)     
+- [Itch.io page](https://orange-flag.itch.io/)   - 19 online game jam entries   
 - [YouTube channel - Orange Flag Studio](https://www.youtube.com/@orangeflagstudio7841)
 - [LinkedIn](https://www.linkedin.com/in/cameron-fox-970216273/?trk=opento_sprofile_topcard)
 
@@ -37,14 +39,6 @@ I try and take part in as many game jams as possible - I started doing them in 2
 
 ## Current Projects
 
-### 3rd Person Cover System - Unreal Engine C++ [Continuing]
-
-Standing bits of cover with transitions to/from crouch added. 
-
-Planning to add: cover transitions and vaulting (and possible extension of the same system for climbing?). Would also be nice to make it into a bit more of a game! Obvious choice has to be some stealth game... Currently using a construction worker character so just need to come up with some post-apocalyptic context!
-[Short Video](https://www.linkedin.com/feed/update/urn:li:activity:7282817796915298304/) 
-[Devlog of work so far](https://youtu.be/_-vrriGN1yU)
-
 ### DNGN [Continuing]
 
 DNGN will be continuing production into 2026 with a small core team in the run-up to a release in late 2026.
@@ -53,7 +47,7 @@ DNGN will be continuing production into 2026 with a small core team in the run-u
 
 I will be undertaking my final year dissertation on machine learned cloth simulation for a realtime implementation. It is inspired by the Ubisoft LaForge paper on the same subject.
 
-(Updated 24/09/2025)
+(Updated 26/02/2026)
 
 ## Contact
 
@@ -79,7 +73,7 @@ At university, I led a group project where the client was Epic Games' technical 
 ### 3rd Person Cover System
 #### Dev-log:
 [![Cover System Devlog](https://img.youtube.com/vi/_-vrriGN1yU/0.jpg)](https://youtu.be/_-vrriGN1yU)  
-Using Unreal Engine 5 and C++, I implemented multi-segment cover rails as well as full wrap-around cover (e.g. moving around a box) with appropriate character rotation per segment. I controlled the cover animations using a blend-space within animation Blueprints, all other logic was wrote in C++. I wrote a custom component to make the creation process for new pieces of cover streamlined, new pieces could be created and dragged into the editor and would work straight away as demonstrated [here](https://www.linkedin.com/feed/update/urn:li:activity:7282817796915298304/).
+Using Unreal Engine 5 and C++, I implemented multi-segment cover rails as well as full wrap-around cover (e.g. moving around a box) with appropriate character rotation per segment. I controlled the cover animations using a blend-space within animation Blueprints, all other logic was wrote in C++. I wrote a custom component to make the creation process for new pieces of cover streamlined, new pieces could be created and dragged into the editor and would work straight away as demonstrated [here](https://www.linkedin.com/feed/update/urn:li:activity:7282817796915298304/). Variable height cover added to demonstrate tagging certain sections of rail.
 
 ### DNGN - Gamebridge 2025 Pitching Competition Winner
 #### Trailer:
