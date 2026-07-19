@@ -1,8 +1,6 @@
 # Cameron Fox
 
-Hi! I'm Cameron, I'm a games programmer and recent computer science graduate from the Univeristy of Cambridge. Originally from Barnsley, I now live in Cambridgeshire. I completed an Engineering Internship at Studio Gobo in summer 2025 and I am currently a Graduate Programmer at Frontier Developments. My games, many game-jam entries and my Steam release, Anchor Up, are released under "Orange Flag Studio". I was also the co-founder and co-president of the Cambridge University Game Development Society (CU-Devs), alongside Samuel Shakeshaft.
-
-Navigate:
+Hi! I'm Cameron, I'm a games programmer and recent computer science graduate from the Univeristy of Cambridge. Originally from Barnsley, I now live in Cambridgeshire. I completed an Engineering Internship at Studio Gobo in summer 2025 and I am currently a Graduate Programmer at Frontier Developments. My games, many game-jam entries and my Steam release, Anchor Up, are released under "Orange Flag Studio". I was also the co-founder and co-president of the Cambridge University Game Development Society (CU-Devs), alongside Samuel Shakeshaft. (Updated 19/07/2026)
 
 [Experience](https://cameron-fox.com/#experience)
 
@@ -39,21 +37,17 @@ Skipped and self-taught Year 10 in secondary school, therefore completing all ex
 - [LinkedIn](https://www.linkedin.com/in/cameron-fox-970216273/?trk=opento_sprofile_topcard)
 - Email: orange.flag.studio28@gmail.com
 
-## Current Projects
+## Project Portfolio
 
-### Machine Learned Cloth Simulation: Generalised File Format [Dissertation Expansion]
+### Current Projects
+
+#### Machine Learned Cloth Simulation: Generalised File Format [Dissertation Expansion]
 
 Continuing work on my dissertation by creating a generalisable file format for machine learned soft bodies for use in 3D video games.
 
-### Large Language Model Game Dialogue Research
+#### Large Language Model Game Dialogue Research
 
 Seeking to publish work undertaken in my final year on LLM assistance for dialogue tree writers. The work seeks to study the integration of LLMs into writing practises, as opposed to using them to replace writers.
-
-(Updated 19/07/2026)
-
-## Contact
-
-## Project Portfolio
 
 ### Game Jams
 
@@ -135,3 +129,6 @@ Speakers included [Mark Brown](https://www.youtube.com/channel/UCqJ-Xo29CKyLTjn6
 - [CU-Devs (University of Cambridge) vs. Gamma (University of Hokkaido) Game Jam](https://itch.io/jam/gamma-vs-cudevs) - Possibly the first UK-Japanese university vs. university game jam.
 - [Article about the founding of the society](https://www.cai.cam.ac.uk/news/more-game-caians-set-game-dev-society)
 
+## Personal
+
+### The Nick Drake Bateman Recreation
