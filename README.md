@@ -10,7 +10,7 @@ Hi! I'm Cameron, I'm a games programmer and recent computer science graduate fro
 
 [Cambridge University Game Development Society](https://cameron-fox.com/#Cambridge-University-Game-Development-Society)
 
-[Personal](https://cameron-fox.com/#project-portfolio)
+[Personal](https://cameron-fox.com/#personal)
 
 ## Experience
 
