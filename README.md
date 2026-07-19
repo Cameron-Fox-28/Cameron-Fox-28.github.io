@@ -19,6 +19,7 @@ Hi! I'm Cameron, I'm a games programmer and recent computer science graduate fro
 | :--- | :--- | :--- | :--- |
 | August 2026 - Present | Graduate Programmer | [Frontier Developments](https://www.frontier.co.uk/) | Cambridge |
 | June - September 2025 | Intern Engineer | [Studio Gobo](https://www.studiogobo.com/) | Brighton |
+
 ### Education
 Skipped and self-taught Year 10 in secondary school, therefore completing all exams a year earlier than typical. Attended non-selective state schools.
 
@@ -28,6 +29,7 @@ Skipped and self-taught Year 10 in secondary school, therefore completing all ex
 | October 2023 - July 2026 | University of Cambridge, Gonville and Caius College | First-Class BA (Hons) in Computer Science |
 |September 2021 - July 2023 | Penistone Sixth Form | Four A*s in A-level Physics, Computer Science, Maths, Further Maths | 
 | September 2017 - July 2021 | Darton Academy | GCSEs with four 9s, five 8s and 8 in self-taught computer science GCSE sat in Year 9 |
+
 ### Teaching
 
 | Dates | Institution | Role |
@@ -35,6 +37,7 @@ Skipped and self-taught Year 10 in secondary school, therefore completing all ex
 |August 2024| [Linacre Institute](https://linacreinstitute.org/) | Mathematics Teacher | 
 |August 2024| [Sutton Trust](https://summerschools.suttontrust.com/university-partners/university-of-cambridge/) | Computer Science Ambassador|
 | July 2024 - January 2025 | [Apply Cambridge](https://www.undergraduate.study.cam.ac.uk/find-out-more/widening-participation/apply-cambridge) | Computer Science Mentor |
+
 ### Awards
 
 | Award | Description | Institution |
