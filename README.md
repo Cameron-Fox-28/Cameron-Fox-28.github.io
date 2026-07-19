@@ -44,8 +44,8 @@ Skipped and self-taught Year 10 in secondary school, therefore completing all ex
 | Award | Description | Institution |
 | :--- | :--- | :--- |
 |Child's Maths Award | Awarded for highest achieving overall maths results | Penistone Sixth Form |
-|Sheffield Hallamshire University Academic Achievement Award | Highest acheiving overall A-level results | Penistone Sixth Form |
-|Computer Science Award | Highest achiving computer science results | Penistone Sixth Form |
+|Sheffield Hallamshire University Academic Achievement Award | Highest achieving overall A-level results | Penistone Sixth Form |
+|Computer Science Award | Highest achieving computer science results | Penistone Sixth Form |
 
 ## Links and Contact
 - [Itch.io page](https://orange-flag.itch.io/)   
@@ -63,7 +63,7 @@ Continuing work on my dissertation by creating a generalisable file format for m
 
 #### Large Language Model Game Dialogue Research
 
-Seeking to publish work undertaken in my final year on LLM assistance for dialogue tree writers. The work seeks to study the integration of LLMs into writing practises, as opposed to using them to replace writers.
+Seeking to publish work undertaken in my final year on LLM assistance for dialogue tree writers. The work studies the integration of LLMs into writing practises, as opposed to using them to replace writers.
 
 ### Game Jams
 
@@ -92,9 +92,9 @@ A summary of the key results from the project:
 
 - Through a user study, there was no identified loss in believability between the training cloth animations captured in Maya and the results of the trained implementation in Unity.
 
-- The cloth simulation could take place nearly entirely on the GPU, allowing for greater freedom in workload placement. This is not currently possible in Unity's own cloth component or Magica cloth (the top 3rd party asset). The model could also use Unity's Job System for a CPU sided implementation which showed comparable performance to Unity's component up to PCA-128 for up to 8 instances.
+- The cloth simulation could take place nearly entirely on the GPU, allowing for greater freedom in workload placement. This is not currently possible in Unity's own cloth component or Magica Cloth (the top 3rd party asset). The model could also use Unity's Job System for a CPU sided implementation which showed comparable performance to Unity's component up to PCA-128 for up to 8 instances.
 
-- Iterations (generating the next frame) of the mesh are produced in the realtime implementation at 15X that of the offline Maya nCloth simulation. Coupled with no observed loss in believebaility, the technique has the potential capability of letting artists create arbitrarily complex physics material interactions in Maya and a comparatively believable version can be placed in game at a fraction of the cost.
+- Iterations (generating the next frame) of the mesh are produced in the realtime implementation at 15X that of the offline Maya nCloth simulation. Coupled with no observed loss in believability, the technique has the potential capability of letting artists create arbitrarily complex physics material interactions in Maya and a comparatively believable version can be placed in game at a fraction of the cost.
 
 ### Anchor Up
 #### Trailer:
@@ -182,7 +182,7 @@ I set out contacting Richard Morton Jack (whose biography of Nick I was reading)
 
 Robert Kirby's son was also in attendance at the first night, opening the evening with remarks about the collaboration between his father and Nick. Marcus Bicknell, who played flute at the original concert and went on to promote Nick as a live act in the early 70s, also supplied many digitised concert posters and newspaper clippings to be displayed at the event. The Nick Drake estate also donated to the evening.
 
-Through pay-what-you-can ticket sales, the event raised over £1200 for the mental health charity mind. The events were filmed and a concert video will be released later in 2026. The film for 'The Thoughts of Mary Jane' from the night one performance was played at The Annual Nick Drake Gathering 2026.
+Through pay-what-you-can ticket sales, the event raised over £1200 for the mental health charity Mind. The events were filmed and a concert video will be released later in 2026. The film for 'The Thoughts of Mary Jane' was played at The Annual Nick Drake Gathering 2026.
 
 Below are a collection of links related to the event.
 - [Caius College article announcing the project](https://www.cai.cam.ac.uk/news/caians-homage-nick-drake)
