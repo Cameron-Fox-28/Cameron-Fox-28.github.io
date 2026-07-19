@@ -150,9 +150,11 @@ Used a delegate function strategy for procedurally generating bosses. Movesets a
 
 ## Cambridge University Game Development Society
 
-Samuel Shakeshaft and I started the Cambridge University Game Development Society in our first term at Cambridge. We ran weekly sessions for developers to meet and work on projects. We also ran speaker events, game jams and a community project which became 'DNGN'. Sam and I pitched DNGN at the Gamebridge student games festival hosted by Anglia Ruskin University in 2025. The project won the competetion and received an assortment of industry support. The project is being taken forward by Sam and Adam Catley to a full release (as of August 2026).
+Samuel Shakeshaft and I started the Cambridge University Game Development Society (CU-Devs) in our first term at Cambridge. We ran weekly sessions for developers to meet and work on projects. We also ran speaker events, game jams and a community project which became 'DNGN'. Sam and I pitched DNGN at the Gamebridge student games festival hosted by Anglia Ruskin University in 2025. The project won the competetion and received an assortment of industry support. The project is being taken forward by Sam and Adam Catley to a full release (as of August 2026).
 
 Speakers included [Mark Brown](https://www.youtube.com/channel/UCqJ-Xo29CKyLTjn6z2XwYAw), (Game Maker's Toolkit), [Philip Bielby](https://www.linkedin.com/in/philip-bielby-a3a3416b/) (Jagex, Just Won't Die, Build a Rocket Boy), [George Prosser](https://prosser.io/) (Studio Gobo, Act III) and [James Golding](https://www.linkedin.com/in/james-a-golding/) (Epic Games).
+
+Sam and I also both attended the lecture given by Demis Hassabis on his return visit to Cambridge in 2025. We were also lucky enough to have one of us picked to ask a question on behalf of CU-Devs about the future of AI for video games which can be seen [here](https://youtu.be/hHooQmmzG4k?si=Ojm6hmzHn4L8q5vk&t=3657).
 
 - [Instagram](https://www.instagram.com/cudevs/)
 - [Society Page](https://www.cambridgesu.co.uk/organisation/cu-devs/)
@@ -163,3 +165,19 @@ Speakers included [Mark Brown](https://www.youtube.com/channel/UCqJ-Xo29CKyLTjn6
 ## Personal
 
 ### The Nick Drake Bateman Recreation
+
+[![Film Trailer](https://i.ytimg.com/vi/5NdEnjvTdHI/hq720.jpg)](https://www.youtube.com/watch?v=5NdEnjvTdHI)  
+
+In my final year of university, I accidentally left the book I was meant to read at home when making the termly move back to Cambridge. I'd seen somewhere over Christmas that Nick Drake, a late 1960s folk artist I'd listened to over the previous year, had gone to Cambridge so I decided to see if there were any books I could read about him; thankfully, there were! I was very surprised to see how much of a connection to Gonville & Caius College he had. This is the college I attended, but Nick had actually been to Fitzwilliam College. When I found out his first dedicated concert took place in the nearby Bateman Room, which was where I sat my mocks, I thought it would be great to recreate it. Many of the recordings Nick Drake had made in Caius were recorded in Q4 tree court - just a few corridors away from my own N14 - in Robert Kirby's former room. I had not heard of Kirby before, but I had heard his music; I was a keen fan of Tim Hart and Maddy Prior's 'Summer Solstice' album.
+
+I set out contacting Richard Morton Jack (whose biography of Nick I was reading) and the Nick Drake community in search of sheet music. Unfortunately lost, the sheet music was skillfully recreated by Homerton student Lucas Harley and wonderfully played by Homerton College Music Society musicians. I also couldn't believe it when Peter Rice, the man who recorded the original concert in 1968, agreed not only to speak at this event but to record it in that space once again. Once the first night sold out, the waitlist for the event grew to near the venue's capacity. Once announced, the second night sold out within 24 hours.
+
+Robert Kirby's son was also in attendance at the first night, opening the evening with remarks about the collaboration between his father and Nick. Marcus Bicknell, who played flute at the original concert and went on to promote Nick as a live act in the early 70s, also supplied many digitised concert posters and newspaper clippings to be displayed at the event. The Nick Drake estate also donated to the evening.
+
+Through pay-what-you-can ticket sales, the event raised over £1200 for the mental health charity mind. The events were filmed and a concert video will be released later in 2026. The film for 'The Thoughts of Mary Jane' from the night one performance was played at The Annual Nick Drake Gathering 2026.
+
+Below are a collection of links related to the event.
+- [Caius College article announcing the project](https://www.cai.cam.ac.uk/news/caians-homage-nick-drake)
+- [Varsity article about the project](https://www.varsity.co.uk/music/31774)
+- [Feature in Cambridge Centre for Music Performance Summer Sounds playlist](https://www.cmp.cam.ac.uk/posts/2026/06/30/cambridge-sounds-summer-2026/)
+- [Caius College interview with Peter Rice about the original and the recreation](https://www.cai.cam.ac.uk/news/meet-caian-who-recorded-nick-drakes-cambridge-concert-and-its-re-creation-58-years-later)
