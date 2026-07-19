@@ -1,59 +1,67 @@
 # Cameron Fox
 
-Hi! I'm Cameron, I'm a games developer and 3rd year computer science student at the Univeristy of Cambridge. I completed an Engineering Internship at Studio Gobo in the summer 2025 and will be starting as a Graduate Programmer at Fronier Developments in August 2026. My games, many game-jam entries and my Steam release, Anchor Up, are released under "Orange Flag Studio". I am also the co-founder and co-president of the Cambridge University Game Development Society (CU-Devs), alongside Samuel Shakeshaft. I intend to update this page with games and programming projects that I do in between my studies.
+Hi! I'm Cameron, I'm a games programmer and recent computer science graduate from the Univeristy of Cambridge. Originally from Barnsley, I now live in Cambridgeshire. I completed an Engineering Internship at Studio Gobo in summer 2025 and I am currently a Graduate Programmer at Frontier Developments. My games, many game-jam entries and my Steam release, Anchor Up, are released under "Orange Flag Studio". I was also the co-founder and co-president of the Cambridge University Game Development Society (CU-Devs), alongside Samuel Shakeshaft.
+
+Navigate:
+
+[Experience](https://cameron-fox.com/#experience)
+
+[Contact and Further Links](https://cameron-fox.com/#links-and-contact)
+
+[Project Portfolio](https://cameron-fox.com/#project-portfolio)
+
+[Cambridge University Game Development Society](https://cameron-fox.com/#Cambridge-University-Game-Development-Society)
+
+[Personal](https://cameron-fox.com/#project-portfolio)
 
 ## Experience
 ### Professional
-- {Starting August 2026} : Graduate Programmer at [Frontier Developments](https://www.frontier.co.uk/) | @ Cambridge
-- June - September 2025: Intern Engineer at [Studio Gobo](https://www.studiogobo.com/) | @ Brighton
-### Teaching and University
-- November 2023 - present: [Cambridge University Game Development Society](https://www.instagram.com/cudevs/?hl=en) Co-President and Co-Founder
-- August 2024: [Linacre Institute Mathematics Teacher](https://linacreinstitute.org/)
+- August 2026 - Present | Graduate Programmer at [Frontier Developments](https://www.frontier.co.uk/) | @ Cambridge
+- June - September 2025 | Intern Engineer at [Studio Gobo](https://www.studiogobo.com/) | @ Brighton
+### Education
+Skipped and self-taught Year 10 in secondary school, therefore completing all exams a year earlier than typical. Attended non-selective state schools.
+- July - August 2026 | Peking University Shenzhen Graduate School | School of Electronic and Computer Engineering Funded Research Placement
+- October 2023 - July 2026 | University of Cambridge, Gonville and Caius College | First-Class Honours in Computer Science
+- September 2021 - July 2023 | Penistone Sixth Form | Four A*s in A-level Physics, Computer Science, Maths, Further Maths
+- September 2017 - July 2021 | Darton Academy | GCSEs with four 9s, five 8s and 8 in self-taught computer science GCSE sat in Year 9
+### Teaching
+- August 2024: [Linacre Institute](https://linacreinstitute.org/) Mathematics Teacher
 - August 2024: [Sutton Trust](https://summerschools.suttontrust.com/university-partners/university-of-cambridge/) Computer Science Ambassador
 - July 2024 - January 2025: [Apply Cambridge](https://www.undergraduate.study.cam.ac.uk/find-out-more/widening-participation/apply-cambridge) Computer Science Mentor
+### Awards
+- Child's Maths Award | Awarded for highest achieving overall maths results | Penistone Sixth Form
+- Sheffield Hallamshire University Academic Achievement Award | Highest acheiving overall A-level results | Penistone Sixth Form
+- Computer Science Award | Highest achiving computer science results | Penistone Sixth Form
 
-## Links 
-
-### Personal
-- [Itch.io page](https://orange-flag.itch.io/)   - 19 online game jam entries   
+## Links and Contact
+- [Itch.io page](https://orange-flag.itch.io/)   
 - [YouTube channel - Orange Flag Studio](https://www.youtube.com/@orangeflagstudio7841)
 - [LinkedIn](https://www.linkedin.com/in/cameron-fox-970216273/?trk=opento_sprofile_topcard)
+- Email: orange.flag.studio28@gmail.com
 
-### Cambridge University Game Devlopment Society
+## Current Projects
 
-- [Instagram](https://www.instagram.com/cudevs/)
-- [Society Page](https://www.cambridgesu.co.uk/organisation/cu-devs/)
-- [Cambridge Game Jam 2025](https://camgamejam.com/#about)    - Ran in partnership with CUCATs
-- [CU-Devs vs Gamma, University of Hokkaido Game Jam](https://itch.io/jam/gamma-vs-cudevs)    - Possibly the first UK-Japanese univeristy vs university game jam
-- [Article about the founding of the society](https://www.cai.cam.ac.uk/news/more-game-caians-set-game-dev-society)
+### Machine Learned Cloth Simulation: Generalised File Format [Dissertation Expansion]
 
-### Game Jams & Highlights
+Continuing work on my dissertation by creating a generalisable file format for machine learned soft bodies for use in 3D video games.
 
-I try and take part in as many game jams as possible - I started doing them in 2019 and have loved taking part in them since! I've so far submitted games for 19 of them. Below are some highlighted ones.
+### Large Language Model Game Dialogue Research
 
-#### Some highlighted ones:
+Seeking to publish work undertaken in my final year on LLM assistance for dialogue tree writers. The work seeks to study the integration of LLMs into writing practises, as opposed to using them to replace writers.
+
+(Updated 19/07/2026)
+
+## Contact
+
+## Project Portfolio
+
+### Game Jams
+
+Since my first game jam in 2019, I have competed in over 20 of them. I absolutely love the fast paced nature of going from absolutely nothing to a full game in just a few days. It is fair to say that game jamming is what got me absolutely hooked on programming. I intend to continue doing at least one game jam a year to keep the streak going! Some highlighted ones are below.
 
 - [Trade Secrets](https://orange-flag.itch.io/trade-secrets) - Stealth-action / card-trading game with procedurally generated countries [CU-Devs vs Gamma 2/14]
 - [Phoenix Fall](https://orange-flag.itch.io/phoenix-fall) - Gliding-descent game with procedurally generated levels [BTP Jam #3 - 152/1023]
 - [Prisoners of Conscience](https://orange-flag.itch.io/prisoners-of-conscience) - Stylised stealth game with multiple endings depending on how the player behaves [Wowie Jam 3.0 200/972]
-
-## Current Projects
-
-### DNGN [Continuing]
-
-DNGN will be continuing production into 2026 with a small core team in the run-up to a release in late 2026.
-
-### Machine Learned Cloth Simulation [Dissertation]
-
-I will be undertaking my final year dissertation on machine learned cloth simulation for a realtime implementation. It is inspired by the Ubisoft LaForge paper on the same subject.
-
-(Updated 26/02/2026)
-
-## Contact
-
-- Email: orange.flag.studio28@gmail.com
-
-## Projects and Experience  
 
 ### Anchor Up
 #### Trailer:
@@ -114,3 +122,16 @@ Created a GeoTIFF to 3D model generator. I then adapted the A* pathfinding algor
 #### Demonstration video:
 [![Procedural Boss Fights Video](https://img.youtube.com/vi/PD7mZSkJmu4/0.jpg)](https://www.youtube.com/watch?v=PD7mZSkJmu4)  
 Used a delegate function strategy for procedurally generating bosses. Movesets are generated at the start of the fight, each boss starts with a certain number of "points" which it then spends on moves or behaviours to add to its moveset, it also spends them on burst moves (e.g. dash three times in a row) and combinational moves (e.g. throw a bomb and jump). Upcoming moves affect the enemy's behaviour, such that if a ranged move is planned to happen next then the boss will try and create distance from the player.
+
+## Cambridge University Game Development Society
+
+Samuel Shakeshaft and I started the Cambridge University Game Development Society in our first term at Cambridge. We ran weekly sessions for developers to meet and work on projects. We also ran speaker events, game jams and a community project which became 'DNGN'. Sam and I pitched DNGN at the Gamebridge student games festival hosted by Anglia Ruskin University in 2025. The project won the competetion and received an assortment of industry support. The project is being taken forward by Sam and Adam Catley to a full release (as of August 2026).
+
+Speakers included [Mark Brown](https://www.youtube.com/channel/UCqJ-Xo29CKyLTjn6z2XwYAw), (Game Maker's Toolkit), [Philip Bielby](https://www.linkedin.com/in/philip-bielby-a3a3416b/) (Jagex, Just Won't Die, Build a Rocket Boy), [George Prosser](https://prosser.io/) (Studio Gobo, Act III) and [James Golding](https://www.linkedin.com/in/james-a-golding/) (Epic Games).
+
+- [Instagram](https://www.instagram.com/cudevs/)
+- [Society Page](https://www.cambridgesu.co.uk/organisation/cu-devs/)
+- [Cambridge Game Jam 2025](https://camgamejam.com/#about) - Ran in partnership with CUCATs.
+- [CU-Devs (University of Cambridge) vs. Gamma (University of Hokkaido) Game Jam](https://itch.io/jam/gamma-vs-cudevs) - Possibly the first UK-Japanese university vs. university game jam.
+- [Article about the founding of the society](https://www.cai.cam.ac.uk/news/more-game-caians-set-game-dev-society)
+
