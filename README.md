@@ -15,22 +15,29 @@ Hi! I'm Cameron, I'm a games programmer and recent computer science graduate fro
 ## Experience
 ### Professional
 | Dates | Role | Company | Location |
-August 2026 - Present | Graduate Programmer at [Frontier Developments](https://www.frontier.co.uk/) | @ Cambridge |
-June - September 2025 | Intern Engineer at [Studio Gobo](https://www.studiogobo.com/) | @ Brighton |
+| :--- | :--- | :--- | :--- |
+| August 2026 - Present | Graduate Programmer | [Frontier Developments](https://www.frontier.co.uk/) | Cambridge |
+| June - September 2025 | Intern Engineer | [Studio Gobo](https://www.studiogobo.com/) | Brighton |
 ### Education
 Skipped and self-taught Year 10 in secondary school, therefore completing all exams a year earlier than typical. Attended non-selective state schools.
-- July - August 2026 | Peking University Shenzhen Graduate School | School of Electronic and Computer Engineering Funded Research Placement
-- October 2023 - July 2026 | University of Cambridge, Gonville and Caius College | First-Class Honours in Computer Science
-- September 2021 - July 2023 | Penistone Sixth Form | Four A*s in A-level Physics, Computer Science, Maths, Further Maths
-- September 2017 - July 2021 | Darton Academy | GCSEs with four 9s, five 8s and 8 in self-taught computer science GCSE sat in Year 9
+| Dates | Institution | Qualifications / Program |
+| :--- | :--- | :--- |
+| July - August 2026 | Peking University Shenzhen Graduate School | School of Electronic and Computer Engineering Funded Research Placement |
+| October 2023 - July 2026 | University of Cambridge, Gonville and Caius College | First-Class BA (Hons) in Computer Science |
+|September 2021 - July 2023 | Penistone Sixth Form | Four A*s in A-level Physics, Computer Science, Maths, Further Maths | 
+| September 2017 - July 2021 | Darton Academy | GCSEs with four 9s, five 8s and 8 in self-taught computer science GCSE sat in Year 9 |
 ### Teaching
-- August 2024: [Linacre Institute](https://linacreinstitute.org/) Mathematics Teacher
-- August 2024: [Sutton Trust](https://summerschools.suttontrust.com/university-partners/university-of-cambridge/) Computer Science Ambassador
-- July 2024 - January 2025: [Apply Cambridge](https://www.undergraduate.study.cam.ac.uk/find-out-more/widening-participation/apply-cambridge) Computer Science Mentor
+| Dates | Institution | Role |
+| :--- | :--- | :--- |
+|August 2024| [Linacre Institute](https://linacreinstitute.org/) | Mathematics Teacher | 
+|August 2024| [Sutton Trust](https://summerschools.suttontrust.com/university-partners/university-of-cambridge/) | Computer Science Ambassador|
+| July 2024 - January 2025 | [Apply Cambridge](https://www.undergraduate.study.cam.ac.uk/find-out-more/widening-participation/apply-cambridge) | Computer Science Mentor |
 ### Awards
-- Child's Maths Award | Awarded for highest achieving overall maths results | Penistone Sixth Form
-- Sheffield Hallamshire University Academic Achievement Award | Highest acheiving overall A-level results | Penistone Sixth Form
-- Computer Science Award | Highest achiving computer science results | Penistone Sixth Form
+| Award | Description | Institution |
+| :--- | :--- | :--- |
+|Child's Maths Award | Awarded for highest achieving overall maths results | Penistone Sixth Form |
+|Sheffield Hallamshire University Academic Achievement Award | Highest acheiving overall A-level results | Penistone Sixth Form |
+|Computer Science Award | Highest achiving computer science results | Penistone Sixth Form |
 
 ## Links and Contact
 - [Itch.io page](https://orange-flag.itch.io/)   
@@ -57,6 +64,29 @@ Since my first game jam in 2019, I have competed in over 20 of them. I absolutel
 - [Trade Secrets](https://orange-flag.itch.io/trade-secrets) - Stealth-action / card-trading game with procedurally generated countries [CU-Devs vs Gamma 2/14]
 - [Phoenix Fall](https://orange-flag.itch.io/phoenix-fall) - Gliding-descent game with procedurally generated levels [BTP Jam #3 - 152/1023]
 - [Prisoners of Conscience](https://orange-flag.itch.io/prisoners-of-conscience) - Stylised stealth game with multiple endings depending on how the player behaves [Wowie Jam 3.0 200/972]
+
+### Cutting Costs: Machine Learned Cloth Simulation For Games
+[![Cloth Dissertation Paper](https://github.com/Cameron-Fox-28/Cameron-Fox-28.github.io/blob/main/DifPCA_ClothExample.png?raw=true)](https://www.linkedin.com/posts/cameron-fox-970216273_gamedev-unity-maya-ugcPost-7481929219220963328-QrXI/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAELGBuQBFGwlU9ZYXYzzZzVh37sNZeOoMak)
+
+[Full Dissertation Paper](https://github.com/Cameron-Fox-28/Cameron-Fox-28.github.io/blob/main/Cutting_Costs_Machine_Learned_Cloth_Simulation_For_Games.pdf)
+
+This was my final year dissertation project which scored 70.5%. The project implements an end-to-end solution for training and deploying machine learned soft bodies into Unity using the ['Subspace Neural Physics' (SNP)](https://dl.acm.org/doi/10.1145/3309486.3340245) technique developed by Ubisoft LaForge.
+
+The example implementation demonstrates an interactive cloth simulation with a player controllable sphere. The training data was acquired using an automated solution capturing Maya nCloth data into Alembic files before being converted into the subspace for training. The trained models were stored in a separate virtual environment and could be used to render offline simulations (for quick validation of results) before being exported into the format used by the Unity implementation.
+
+The models were trained to target different PCA basis sizes, which would allow for the quality and detail of the models to be traded with performance. The greater number of bases, the more detailed the soft body would appear.
+
+I implemented both a CPU sided implementation using Unity's Job System and a GPU compute shader model. The compute shader implementation kept the neural network results (calculated using Unity's 'Inference Engine') and subsequent mesh deformation exclusively on the GPU.
+
+A summary of the key results from the project:
+
+- With equivalent solver frequencies of 60, the SNP-GPU-compute-implementation achieved comparable (and consistently 1% higher) global framerates to Unity's own cloth component for up to 32 cloth instances.
+
+- Through a user study, there was no identified loss in believability between the training cloth animations captured in Maya and the results of the trained implementation in Unity.
+
+- The cloth simulation could take place nearly entirely on the GPU, allowing for greater freedom in workload placement. This is not currently possible in Unity's own cloth component or Magica cloth (the top 3rd party asset). The model could also use Unity's Job System for a CPU sided implementation which showed comparable performance to Unity's component up to PCA-128 for up to 8 instances.
+
+- Iterations (generating the next frame) of the mesh are produced in the realtime implementation at 15X that of the offline Maya nCloth simulation. Coupled with no observed loss in believebaility, the technique has the potential capability of letting artists create arbitrarily complex physics material interactions in Maya and a comparatively believable version can be placed in game at a fraction of the cost.
 
 ### Anchor Up
 #### Trailer:
