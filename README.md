@@ -59,7 +59,7 @@ Seeking to publish work undertaken in my final year on LLM assistance for dialog
 
 ### Game Jams
 
-Since my first game jam in 2019, I have competed in over 20 of them. I absolutely love the fast paced nature of going from absolutely nothing to a full game in just a few days. It is fair to say that game jamming is what got me absolutely hooked on programming. I intend to continue doing at least one game jam a year to keep the streak going! Some highlighted ones are below.
+Since my first game jam in 2019, I have competed in over 20 of them. I love the fast paced nature of going from absolutely nothing to a full game in just a few days. It is fair to say that game jamming is what got me hooked on programming. I intend to continue doing at least one game jam a year to keep the streak going! Some highlighted ones are below.
 
 - [Trade Secrets](https://orange-flag.itch.io/trade-secrets) - Stealth-action / card-trading game with procedurally generated countries [CU-Devs vs Gamma 2/14]
 - [Phoenix Fall](https://orange-flag.itch.io/phoenix-fall) - Gliding-descent game with procedurally generated levels [BTP Jam #3 - 152/1023]
