@@ -14,8 +14,9 @@ Hi! I'm Cameron, I'm a games programmer and recent computer science graduate fro
 
 ## Experience
 ### Professional
-- August 2026 - Present | Graduate Programmer at [Frontier Developments](https://www.frontier.co.uk/) | @ Cambridge
-- June - September 2025 | Intern Engineer at [Studio Gobo](https://www.studiogobo.com/) | @ Brighton
+| Dates | Role | Company | Location |
+August 2026 - Present | Graduate Programmer at [Frontier Developments](https://www.frontier.co.uk/) | @ Cambridge |
+June - September 2025 | Intern Engineer at [Studio Gobo](https://www.studiogobo.com/) | @ Brighton |
 ### Education
 Skipped and self-taught Year 10 in secondary school, therefore completing all exams a year earlier than typical. Attended non-selective state schools.
 - July - August 2026 | Peking University Shenzhen Graduate School | School of Electronic and Computer Engineering Funded Research Placement
