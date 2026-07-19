@@ -15,6 +15,7 @@ Hi! I'm Cameron, I'm a games programmer and recent computer science graduate fro
 ## Experience
 
 ### Professional
+
 | Dates | Role | Company | Location |
 | :--- | :--- | :--- | :--- |
 | August 2026 - Present | Graduate Programmer | [Frontier Developments](https://www.frontier.co.uk/) | Cambridge |
