@@ -13,6 +13,7 @@ Hi! I'm Cameron, I'm a games programmer and recent computer science graduate fro
 [Personal](https://cameron-fox.com/#project-portfolio)
 
 ## Experience
+
 ### Professional
 | Dates | Role | Company | Location |
 | :--- | :--- | :--- | :--- |
@@ -20,6 +21,7 @@ Hi! I'm Cameron, I'm a games programmer and recent computer science graduate fro
 | June - September 2025 | Intern Engineer | [Studio Gobo](https://www.studiogobo.com/) | Brighton |
 ### Education
 Skipped and self-taught Year 10 in secondary school, therefore completing all exams a year earlier than typical. Attended non-selective state schools.
+
 | Dates | Institution | Qualifications / Program |
 | :--- | :--- | :--- |
 | July - August 2026 | Peking University Shenzhen Graduate School | School of Electronic and Computer Engineering Funded Research Placement |
@@ -27,12 +29,14 @@ Skipped and self-taught Year 10 in secondary school, therefore completing all ex
 |September 2021 - July 2023 | Penistone Sixth Form | Four A*s in A-level Physics, Computer Science, Maths, Further Maths | 
 | September 2017 - July 2021 | Darton Academy | GCSEs with four 9s, five 8s and 8 in self-taught computer science GCSE sat in Year 9 |
 ### Teaching
+
 | Dates | Institution | Role |
 | :--- | :--- | :--- |
 |August 2024| [Linacre Institute](https://linacreinstitute.org/) | Mathematics Teacher | 
 |August 2024| [Sutton Trust](https://summerschools.suttontrust.com/university-partners/university-of-cambridge/) | Computer Science Ambassador|
 | July 2024 - January 2025 | [Apply Cambridge](https://www.undergraduate.study.cam.ac.uk/find-out-more/widening-participation/apply-cambridge) | Computer Science Mentor |
 ### Awards
+
 | Award | Description | Institution |
 | :--- | :--- | :--- |
 |Child's Maths Award | Awarded for highest achieving overall maths results | Penistone Sixth Form |
