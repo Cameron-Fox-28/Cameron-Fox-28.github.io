@@ -1,6 +1,6 @@
 # Cameron Fox
 
-Hi! I'm Cameron, I'm a games programmer and recent computer science graduate from the Univeristy of Cambridge. Originally from Barnsley, I now live in Cambridgeshire. I completed an Engineering Internship at Studio Gobo in summer 2025 and I am currently a Graduate Programmer at Frontier Developments. My games, many game-jam entries and my Steam release, Anchor Up, are released under "Orange Flag Studio". I was also the co-founder and co-president of the Cambridge University Game Development Society (CU-Devs), alongside Samuel Shakeshaft. (Updated 19/07/2026)
+Hi! I'm Cameron, I'm a games programmer and recent computer science graduate from the Univeristy of Cambridge. Originally from Barnsley, I now live in Cambridgeshire. I completed an Engineering Internship at Studio Gobo in summer 2025 and I am currently a Graduate Programmer at Frontier Developments. My games, many game-jam entries and my Steam release, Anchor Up, are released under "Orange Flag Studio". I was also the co-founder and co-president of the Cambridge University Game Development Society (CU-Devs), alongside Samuel Shakeshaft. (Updated 23/08/2026)
 
 [Experience](https://cameron-fox.com/#experience)
 
@@ -46,6 +46,7 @@ Skipped and self-taught Year 10 in secondary school, therefore completing all ex
 |Child's Maths Award | Awarded for highest achieving overall maths results | Penistone Sixth Form |
 |Sheffield Hallamshire University Academic Achievement Award | Highest achieving overall A-level results | Penistone Sixth Form |
 |Computer Science Award | Highest achieving computer science results | Penistone Sixth Form |
+|Honorary Scholarship | Achieving a Class I in my final year examinations | Gonville & Caius College, University of Cambridge |
 
 ## Links and Contact
 - [Itch.io page](https://orange-flag.itch.io/)   
