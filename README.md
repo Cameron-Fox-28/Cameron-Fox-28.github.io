@@ -1,6 +1,6 @@
 # Cameron Fox
 
-Hi! I'm Cameron, I'm a games programmer and recent computer science graduate from the Univeristy of Cambridge. Originally from Barnsley, I now live in Cambridgeshire. I completed an Engineering Internship at Studio Gobo in summer 2025 and I am currently a Graduate Programmer at Frontier Developments. My games, many game-jam entries and my Steam release, Anchor Up, are released under "Orange Flag Studio". I was also the co-founder and co-president of the Cambridge University Game Development Society (CU-Devs), alongside Samuel Shakeshaft. (Updated 23/08/2026)
+Hi! I'm Cameron, I'm a games programmer and recent computer science graduate from the Univeristy of Cambridge. Originally from Barnsley, I now live in Cambridgeshire. I completed an Engineering Internship at Studio Gobo in summer 2025 and I am currently a Graduate Programmer at Frontier Developments. My games, many game-jam entries and my Steam release, Anchor Up, are released under "Orange Flag Studio". I was also the co-founder and co-president of the Cambridge University Game Development Society (CU-Devs), alongside Samuel Shakeshaft. (Updated 18/10/2026)
 
 [Experience](https://cameron-fox.com/#experience)
 
@@ -16,10 +16,10 @@ Hi! I'm Cameron, I'm a games programmer and recent computer science graduate fro
 
 ### Professional
 
-| Dates | Role | Company | Location |
-| :--- | :--- | :--- | :--- |
-| August 2026 - Present | Graduate Programmer | [Frontier Developments](https://www.frontier.co.uk/) | Cambridge |
-| June - September 2025 | Intern Engineer | [Studio Gobo](https://www.studiogobo.com/) | Brighton |
+| Dates | Role | Company | Location | Projects |
+| :--- | :--- | :--- | :--- | :--- |
+| August 2026 - Present | Graduate Programmer | [Frontier Developments](https://www.frontier.co.uk/) | Cambridge | [Planet Zoo 2](https://store.steampowered.com/app/3219030/Planet_Zoo_2/) |
+| June - September 2025 | Intern Engineer | [Studio Gobo](https://www.studiogobo.com/) | Brighton | NA |
 
 ### Education
 Skipped and self-taught Year 10 in secondary school, therefore completing all exams a year earlier than typical. Attended non-selective state schools.
